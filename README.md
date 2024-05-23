@@ -1,0 +1,1 @@
+# auto-aks-with-bash
